@@ -1,0 +1,15 @@
+D:\.net\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.exe
+D:\.net\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.deps.json
+D:\.net\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.runtimeconfig.json
+D:\.net\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.dll
+D:\.net\firstconsoleapp\bin\Debug\net6.0\ref\firstconsoleapp.dll
+D:\.net\firstconsoleapp\bin\Debug\net6.0\firstconsoleapp.pdb
+D:\.net\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.csproj.AssemblyReference.cache
+D:\.net\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.AssemblyInfoInputs.cache
+D:\.net\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.AssemblyInfo.cs
+D:\.net\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.csproj.CoreCompileInputs.cache
+D:\.net\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.dll
+D:\.net\firstconsoleapp\obj\Debug\net6.0\ref\firstconsoleapp.dll
+D:\.net\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.pdb
+D:\.net\firstconsoleapp\obj\Debug\net6.0\firstconsoleapp.genruntimeconfig.cache

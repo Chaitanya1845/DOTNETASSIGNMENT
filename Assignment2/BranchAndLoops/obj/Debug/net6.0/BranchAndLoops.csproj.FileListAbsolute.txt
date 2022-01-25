@@ -1,0 +1,15 @@
+D:\.net\practical2\BranchAndLoops\bin\Debug\net6.0\BranchAndLoops.exe
+D:\.net\practical2\BranchAndLoops\bin\Debug\net6.0\BranchAndLoops.deps.json
+D:\.net\practical2\BranchAndLoops\bin\Debug\net6.0\BranchAndLoops.runtimeconfig.json
+D:\.net\practical2\BranchAndLoops\bin\Debug\net6.0\BranchAndLoops.dll
+D:\.net\practical2\BranchAndLoops\bin\Debug\net6.0\ref\BranchAndLoops.dll
+D:\.net\practical2\BranchAndLoops\bin\Debug\net6.0\BranchAndLoops.pdb
+D:\.net\practical2\BranchAndLoops\obj\Debug\net6.0\BranchAndLoops.csproj.AssemblyReference.cache
+D:\.net\practical2\BranchAndLoops\obj\Debug\net6.0\BranchAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\practical2\BranchAndLoops\obj\Debug\net6.0\BranchAndLoops.AssemblyInfoInputs.cache
+D:\.net\practical2\BranchAndLoops\obj\Debug\net6.0\BranchAndLoops.AssemblyInfo.cs
+D:\.net\practical2\BranchAndLoops\obj\Debug\net6.0\BranchAndLoops.csproj.CoreCompileInputs.cache
+D:\.net\practical2\BranchAndLoops\obj\Debug\net6.0\BranchAndLoops.dll
+D:\.net\practical2\BranchAndLoops\obj\Debug\net6.0\ref\BranchAndLoops.dll
+D:\.net\practical2\BranchAndLoops\obj\Debug\net6.0\BranchAndLoops.pdb
+D:\.net\practical2\BranchAndLoops\obj\Debug\net6.0\BranchAndLoops.genruntimeconfig.cache

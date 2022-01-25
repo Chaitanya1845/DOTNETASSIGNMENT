@@ -1,0 +1,15 @@
+D:\.net\practical2\Numbers\bin\Debug\net6.0\Numbers.exe
+D:\.net\practical2\Numbers\bin\Debug\net6.0\Numbers.deps.json
+D:\.net\practical2\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+D:\.net\practical2\Numbers\bin\Debug\net6.0\Numbers.dll
+D:\.net\practical2\Numbers\bin\Debug\net6.0\ref\Numbers.dll
+D:\.net\practical2\Numbers\bin\Debug\net6.0\Numbers.pdb
+D:\.net\practical2\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+D:\.net\practical2\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\practical2\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+D:\.net\practical2\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+D:\.net\practical2\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+D:\.net\practical2\Numbers\obj\Debug\net6.0\Numbers.dll
+D:\.net\practical2\Numbers\obj\Debug\net6.0\ref\Numbers.dll
+D:\.net\practical2\Numbers\obj\Debug\net6.0\Numbers.pdb
+D:\.net\practical2\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache

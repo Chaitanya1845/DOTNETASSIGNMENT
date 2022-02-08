@@ -1,0 +1,15 @@
+D:\DotNetAssignment\Assignment4\SimpleClass\bin\Debug\net6.0\SimpleClass.exe
+D:\DotNetAssignment\Assignment4\SimpleClass\bin\Debug\net6.0\SimpleClass.deps.json
+D:\DotNetAssignment\Assignment4\SimpleClass\bin\Debug\net6.0\SimpleClass.runtimeconfig.json
+D:\DotNetAssignment\Assignment4\SimpleClass\bin\Debug\net6.0\SimpleClass.dll
+D:\DotNetAssignment\Assignment4\SimpleClass\bin\Debug\net6.0\ref\SimpleClass.dll
+D:\DotNetAssignment\Assignment4\SimpleClass\bin\Debug\net6.0\SimpleClass.pdb
+D:\DotNetAssignment\Assignment4\SimpleClass\obj\Debug\net6.0\SimpleClass.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment4\SimpleClass\obj\Debug\net6.0\SimpleClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment4\SimpleClass\obj\Debug\net6.0\SimpleClass.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment4\SimpleClass\obj\Debug\net6.0\SimpleClass.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment4\SimpleClass\obj\Debug\net6.0\SimpleClass.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment4\SimpleClass\obj\Debug\net6.0\SimpleClass.dll
+D:\DotNetAssignment\Assignment4\SimpleClass\obj\Debug\net6.0\ref\SimpleClass.dll
+D:\DotNetAssignment\Assignment4\SimpleClass\obj\Debug\net6.0\SimpleClass.pdb
+D:\DotNetAssignment\Assignment4\SimpleClass\obj\Debug\net6.0\SimpleClass.genruntimeconfig.cache

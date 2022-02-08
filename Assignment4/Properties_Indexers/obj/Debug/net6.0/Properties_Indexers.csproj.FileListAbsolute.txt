@@ -1,0 +1,15 @@
+D:\DotNetAssignment\Assignment4\Properties_Indexers\bin\Debug\net6.0\Properties_Indexers.exe
+D:\DotNetAssignment\Assignment4\Properties_Indexers\bin\Debug\net6.0\Properties_Indexers.deps.json
+D:\DotNetAssignment\Assignment4\Properties_Indexers\bin\Debug\net6.0\Properties_Indexers.runtimeconfig.json
+D:\DotNetAssignment\Assignment4\Properties_Indexers\bin\Debug\net6.0\Properties_Indexers.dll
+D:\DotNetAssignment\Assignment4\Properties_Indexers\bin\Debug\net6.0\ref\Properties_Indexers.dll
+D:\DotNetAssignment\Assignment4\Properties_Indexers\bin\Debug\net6.0\Properties_Indexers.pdb
+D:\DotNetAssignment\Assignment4\Properties_Indexers\obj\Debug\net6.0\Properties_Indexers.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment4\Properties_Indexers\obj\Debug\net6.0\Properties_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment4\Properties_Indexers\obj\Debug\net6.0\Properties_Indexers.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment4\Properties_Indexers\obj\Debug\net6.0\Properties_Indexers.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment4\Properties_Indexers\obj\Debug\net6.0\Properties_Indexers.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment4\Properties_Indexers\obj\Debug\net6.0\Properties_Indexers.dll
+D:\DotNetAssignment\Assignment4\Properties_Indexers\obj\Debug\net6.0\ref\Properties_Indexers.dll
+D:\DotNetAssignment\Assignment4\Properties_Indexers\obj\Debug\net6.0\Properties_Indexers.pdb
+D:\DotNetAssignment\Assignment4\Properties_Indexers\obj\Debug\net6.0\Properties_Indexers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\DotNetAssignment\Assignment4\Employee\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment4\Employee\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment4\Employee\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment4\Employee\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment4\Employee\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment4\Employee\bin\Debug\net6.0\Employee.exe
+D:\DotNetAssignment\Assignment4\Employee\bin\Debug\net6.0\Employee.deps.json
+D:\DotNetAssignment\Assignment4\Employee\bin\Debug\net6.0\Employee.runtimeconfig.json
+D:\DotNetAssignment\Assignment4\Employee\bin\Debug\net6.0\Employee.dll
+D:\DotNetAssignment\Assignment4\Employee\bin\Debug\net6.0\ref\Employee.dll
+D:\DotNetAssignment\Assignment4\Employee\bin\Debug\net6.0\Employee.pdb
+D:\DotNetAssignment\Assignment4\Employee\obj\Debug\net6.0\Employee.dll
+D:\DotNetAssignment\Assignment4\Employee\obj\Debug\net6.0\ref\Employee.dll
+D:\DotNetAssignment\Assignment4\Employee\obj\Debug\net6.0\Employee.pdb
+D:\DotNetAssignment\Assignment4\Employee\obj\Debug\net6.0\Employee.genruntimeconfig.cache

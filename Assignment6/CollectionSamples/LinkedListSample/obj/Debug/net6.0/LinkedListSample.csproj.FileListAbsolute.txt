@@ -1,0 +1,15 @@
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.exe
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.deps.json
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.runtimeconfig.json
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\bin\Debug\net6.0\ref\LinkedListSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\bin\Debug\net6.0\LinkedListSample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\obj\Debug\net6.0\ref\LinkedListSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\LinkedListSample\obj\Debug\net6.0\LinkedListSample.genruntimeconfig.cache

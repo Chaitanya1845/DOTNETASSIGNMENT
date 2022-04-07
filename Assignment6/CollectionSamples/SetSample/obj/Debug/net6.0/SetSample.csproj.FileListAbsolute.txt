@@ -1,0 +1,15 @@
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\bin\Debug\net6.0\SetSample.exe
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\bin\Debug\net6.0\SetSample.deps.json
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\bin\Debug\net6.0\SetSample.runtimeconfig.json
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\bin\Debug\net6.0\SetSample.dll
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\bin\Debug\net6.0\ref\SetSample.dll
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\bin\Debug\net6.0\SetSample.pdb
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\obj\Debug\net6.0\SetSample.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\obj\Debug\net6.0\SetSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\obj\Debug\net6.0\SetSample.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\obj\Debug\net6.0\SetSample.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\obj\Debug\net6.0\SetSample.dll
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\obj\Debug\net6.0\ref\SetSample.dll
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\obj\Debug\net6.0\SetSample.pdb
+D:\DotNetAssignment\Assignment6\CollectionSamples\SetSample\obj\Debug\net6.0\SetSample.genruntimeconfig.cache

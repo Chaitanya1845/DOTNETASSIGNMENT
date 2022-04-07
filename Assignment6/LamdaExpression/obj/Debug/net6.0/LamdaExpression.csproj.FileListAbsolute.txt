@@ -1,0 +1,15 @@
+D:\DotNetAssignment\Assignment6\LamdaExpression\obj\Debug\net6.0\LamdaExpression.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment6\LamdaExpression\obj\Debug\net6.0\LamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment6\LamdaExpression\obj\Debug\net6.0\LamdaExpression.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment6\LamdaExpression\obj\Debug\net6.0\LamdaExpression.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment6\LamdaExpression\obj\Debug\net6.0\LamdaExpression.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment6\LamdaExpression\bin\Debug\net6.0\LamdaExpression.exe
+D:\DotNetAssignment\Assignment6\LamdaExpression\bin\Debug\net6.0\LamdaExpression.deps.json
+D:\DotNetAssignment\Assignment6\LamdaExpression\bin\Debug\net6.0\LamdaExpression.runtimeconfig.json
+D:\DotNetAssignment\Assignment6\LamdaExpression\bin\Debug\net6.0\LamdaExpression.dll
+D:\DotNetAssignment\Assignment6\LamdaExpression\bin\Debug\net6.0\ref\LamdaExpression.dll
+D:\DotNetAssignment\Assignment6\LamdaExpression\bin\Debug\net6.0\LamdaExpression.pdb
+D:\DotNetAssignment\Assignment6\LamdaExpression\obj\Debug\net6.0\LamdaExpression.dll
+D:\DotNetAssignment\Assignment6\LamdaExpression\obj\Debug\net6.0\ref\LamdaExpression.dll
+D:\DotNetAssignment\Assignment6\LamdaExpression\obj\Debug\net6.0\LamdaExpression.pdb
+D:\DotNetAssignment\Assignment6\LamdaExpression\obj\Debug\net6.0\LamdaExpression.genruntimeconfig.cache

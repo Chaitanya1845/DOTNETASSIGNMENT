@@ -1,0 +1,15 @@
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\bin\Debug\net6.0\LookupSample.exe
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\bin\Debug\net6.0\LookupSample.deps.json
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\bin\Debug\net6.0\LookupSample.runtimeconfig.json
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\bin\Debug\net6.0\LookupSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\bin\Debug\net6.0\ref\LookupSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\bin\Debug\net6.0\LookupSample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\obj\Debug\net6.0\LookupSample.csproj.AssemblyReference.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\obj\Debug\net6.0\LookupSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfoInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\obj\Debug\net6.0\LookupSample.AssemblyInfo.cs
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\obj\Debug\net6.0\LookupSample.csproj.CoreCompileInputs.cache
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\obj\Debug\net6.0\LookupSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\obj\Debug\net6.0\ref\LookupSample.dll
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\obj\Debug\net6.0\LookupSample.pdb
+D:\DotNetAssignment\Assignment6\collectionSamples\LookupSample\obj\Debug\net6.0\LookupSample.genruntimeconfig.cache
